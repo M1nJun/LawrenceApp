@@ -1,0 +1,46 @@
+{
+    "data": {
+        "mj2000": {
+            "Password": "1234",
+            "FirstName": "Minjun",
+            "LastName": "Lee",
+            "PhoneNum": "9206669262"
+        },
+        "kb1995": {
+            "Password": "1234",
+            "FirstName": "Kangbok",
+            "LastName": "Lee",
+            "PhoneNum": "2067937371"
+        },
+        "mw2002": {
+            "Password": "1234",
+            "FirstName": "Miranda",
+            "LastName": "Whitaker",
+            "PhoneNum": "123456789"
+        },
+        "me4444": {
+            "Password": "1234",
+            "FirstName": "Example",
+            "LastName": "Mr.",
+            "Phonenum": "4444444444"
+        },
+        "Chi2004": {
+            "Password": "1234",
+            "FirstName": "Chi",
+            "LastName": "Nguyen",
+            "Phonenum": "5555555555"
+        },
+        "sb2000": {
+            "Password": "1234",
+            "FirstName": "Subin",
+            "LastName": "Han",
+            "Phonenum": "777777777"
+        },
+        "jf2010": {
+            "Password": "1234",
+            "FirstName": "fejaef",
+            "LastName": "ajf",
+            "Phonenum": "444444444"
+        }
+    }
+}
